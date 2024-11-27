@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 769.03 622.89">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_5);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_9);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-11 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+
+      .cls-12 {
+        fill: url(#Gradiente_sem_nome_11);
+      }
+
+      .cls-13 {
+        fill: url(#Gradiente_sem_nome_17);
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-15 {
+        fill: url(#Gradiente_sem_nome);
+      }
+
+      .cls-16 {
+        fill: url(#Gradiente_sem_nome_19);
+      }
+
+      .cls-17 {
+        fill: url(#Gradiente_sem_nome_13);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-19 {
+        fill: url(#Gradiente_sem_nome_12);
+      }
+
+      .cls-20 {
+        fill: url(#Gradiente_sem_nome_15);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-25 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-26 {
+        fill: url(#Gradiente_sem_nome_7);
+      }
+
+      .cls-27 {
+        clip-rule: evenodd;
+        fill: none;
+      }
+
+      .cls-28 {
+        fill: url(#Gradiente_sem_nome_4);
+      }
+
+      .cls-29 {
+        fill: url(#Gradiente_sem_nome_16);
+      }
+
+      .cls-30 {
+        fill: url(#Gradiente_sem_nome_6);
+      }
+
+      .cls-31 {
+        fill: url(#Gradiente_sem_nome_10);
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-34 {
+        fill: url(#Gradiente_sem_nome_3);
+      }
+
+      .cls-35 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-36 {
+        fill: url(#Gradiente_sem_nome_8);
+      }
+
+      .cls-37 {
+        fill: url(#Gradiente_sem_nome_18);
+      }
+
+      .cls-38 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-39 {
+        fill: url(#Gradiente_sem_nome_14);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-27" d="M285.68,62.36c8.46,7.96,33.85,31.75,57.37,52.1l12.16.09c5.66.04,10.83,2,14.86,5.39,6.28-2.56,11.75-4.1,15.57-3.98,3.9.12,10.1,2.28,17.26,5.6,3.53-2.49,7.81-3.99,12.45-4.2l7.4-.34c3.83-3.61,7.62-7.25,11.38-10.8l24.54-21.58c8.39-7.28,16.48-14.73,24.05-22.43-8.37-9.04-85.09-58.41-97.41-58.77-13.28-.39-89.01,48.31-99.62,58.92"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome" data-name="Gradiente sem nome" x1="285.68" y1="62.3" x2="482.72" y2="62.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <path class="cls-27" d="M373.72,591.89l7,22.8c4.17,8.57,2.99,5.72,5,8.19l9.31-44.81c3.33-26.72,11.04-52.57,16.62-80.3.52-2.58.91-5.51,1.2-8.69-1.62,1.15-3.36,2.06-5.2,2.75-2.25,8.24-8.49,14.31-16.92,16.37-8.52,2.08-16.94-.51-22.75-6.92-2.35-2.35-3.82-4.72-5.24-7.48-1.6-.25-3.2-.68-4.79-1.28-1.56-.59-3.02-1.31-4.37-2.16,2.78,32.56,11.05,61.96,20.14,101.54"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" x1="352.56" y1="556.17" x2="413.42" y2="556.17" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-2">
+      <path class="cls-27" d="M276.18,382.11c2.62,3.16,5.28,6.26,7.93,9.21-1.86-3.03-3.75-6.04-5.71-9.05-.74-.02-1.48-.07-2.22-.16M169.78,187.52l-49.5-.33c2.17,4.82,12.2,18.15,25.93,35.39.09-1.97.43-3.98,1.04-5.99,1.78-5.88,3.19-9.77,7.67-14.2,2.71-3.49,5.58-6,8.72-9.01l6.15-5.87Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_3" data-name="Gradiente sem nome 3" x1="120.28" y1="289.26" x2="304" y2="289.26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-3">
+      <path class="cls-27" d="M627.41,211.93c9.79-11.49,12.39-11.23,19-25.4l-47.07,1.31,5.82,5.56c3.1,2.96,5.93,5.44,8.74,9.02,4.46,4.42,5.87,8.31,7.65,14.19.17.56.32,1.13.45,1.69l5.42-6.36Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_4" data-name="Gradiente sem nome 4" x1="460.59" y1="202.41" x2="646.4" y2="202.41" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-4">
+      <path class="cls-27" d="M227.64,412.3c29.74,45.17,15.74,30.75,60.53,93.13,10.85,15.11,62.45,76.07,63.54,90.89,10.83-10.61-1.08-39.36-4.81-53.18-4.29-15.88-7.58-36.86-12.33-52.21-6.57-21.28-158.27-207.22-174.08-214.34,13.54,40.37,47.4,88.21,67.15,135.72"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_5" data-name="Gradiente sem nome 5" x1="160.49" y1="436.46" x2="356.15" y2="436.46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-5">
+      <path class="cls-27" d="M411.27,594.9c14.13-21.25,35.32-48.16,51.04-69.11,16.79-22.37,40.51-50.11,54.12-74.55,27.03-48.55,56.22-116.68,86.4-163.26-2.92-4.08,1.71-13.92-4.6-8.58l-8.69,8.98c-.63.71-1.29,1.45-1.99,2.25-5.96,6.76-10,13.51-14.32,19.22-28.3,37.34-131.87,152.88-141.64,181.2-6.46,18.73-24.01,87.32-20.31,103.86"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_6" data-name="Gradiente sem nome 6" x1="410.78" y1="434.48" x2="602.81" y2="434.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-6">
+      <path class="cls-27" d="M562.77,405.56c44.38-38.64,106.17-113.09,153.88-159.58l40.67-41.99c14.8-16.8,5.29.17,11.7-17.57l-93.22.6c-8.75,11.95-110.98,207.5-113.04,218.54"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_7" data-name="Gradiente sem nome 7" x1="562.77" y1="295.99" x2="769.03" y2="295.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-7">
+      <path class="cls-27" d="M116.91,317.39c10.37,10.88,86.92,105.05,79.69,72l-104.84-202.67-87.71,1.38c37.76,50.34,67.95,82.17,112.86,129.29"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_8" data-name="Gradiente sem nome 8" x1="4.05" y1="304.58" x2="197.07" y2="304.58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-8">
+      <path class="cls-27" d="M661.04,143.49c2.85-20.88-1.07-58.04-2.1-81.43-4.36-98.58-90.57-34.47-131.45-4.77,18.08,17.83,102.71,70.58,133.55,86.2"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_9" data-name="Gradiente sem nome 9" x1="527.48" y1="53.49" x2="662.09" y2="53.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-9">
+      <path class="cls-27" d="M516.05,119.21c-4.59-13.57-10.23-26.76-15.21-35.64-9.82,1.46-29.9,16.03-47.6,32.05l32.73-1.5c6.91-.32,13.24,2.25,17.76,6.93,4.07-1.04,8.19-1.7,12.32-1.84"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_10" data-name="Gradiente sem nome 10" x1="420.48" y1="102.31" x2="524.54" y2="102.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-10">
+      <path class="cls-27" d="M681.27,150.13l40.48,3.69c15.66-.14,31.19-.12,46.85.05-3.13-10.33-1.17-4.74-6.73-11.92-3.64-4.69-8.56-8.74-11.48-11.53l-71.9-68.68,2.79,88.38Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_11" data-name="Gradiente sem nome 11" x1="678.48" y1="107.82" x2="768.6" y2="107.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-11">
+      <path class="cls-27" d="M311.91,114.24c-18.22-16.17-36.81-31.84-41.3-35.33l-15.26,40.45c3.19.27,6.39.84,9.58,1.66,4.29-4.44,10.29-7.05,16.91-6.99l30.07.21Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_12" data-name="Gradiente sem nome 12" x1="242.69" y1="99.97" x2="351.27" y2="99.97" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-12">
+      <path class="cls-27" d="M144.3,153.63l61.6-.4c1.59-1.21,3.29-2.2,5.06-2.95,3.53-11.31,10.12-21.2,21.48-26.82l11.54-35.58c-13.94,4.58-93.09,49.18-99.68,65.75"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_13" data-name="Gradiente sem nome 13" x1="144.3" y1="120.75" x2="243.98" y2="120.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-13">
+      <path class="cls-27" d="M526.05,87.47l11.36,36.53c10.71,5.7,17,15.32,20.41,26.27,1.84.78,3.6,1.81,5.24,3.09,101.87-4.46,51.88-30.44-37.01-65.89"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_14" data-name="Gradiente sem nome 14" x1="526.05" y1="120.42" x2="619.7" y2="120.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-14">
+      <path class="cls-27" d="M266,43.66l14.6-8.14c6.02-3.29,10.65-5.91,17.42-10.29L331.8.93l-131.25-.93,65.44,43.66Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_15" data-name="Gradiente sem nome 15" x1="200.56" y1="21.83" x2="331.8" y2="21.83" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-15">
+      <path class="cls-27" d="M567.92.13l-126.33,5.79,60.17,36.38c11.06,1.13,24.59-11.24,32.17-16.21,6.77-4.45,12.82-7.12,17.23-9.93L567.92.13Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_16" data-name="Gradiente sem nome 16" x1="441.58" y1="21.78" x2="567.92" y2="21.78" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-16">
+      <path class="cls-27" d="M107.56,143.49c-2.85-20.88,1.07-58.04,2.1-81.43,4.36-98.58,90.57-34.47,131.45-4.77-18.08,17.83-102.71,70.58-133.55,86.2"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_17" data-name="Gradiente sem nome 17" x1="241.12" y1="53.49" x2="106.56" y2="53.49" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-17">
+      <path class="cls-27" d="M87.33,150.13l-40.48,3.69c-15.66-.14-31.19-.12-46.85.05,3.13-10.33,1.17-4.74,6.74-11.92,3.64-4.69,8.56-8.74,11.48-11.53L90.11,61.75l-2.78,88.38Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_18" data-name="Gradiente sem nome 18" x1="90.11" y1="107.82" x2="0" y2="107.82" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a5367"/>
+      <stop offset="1" stop-color="#706c6c"/>
+    </linearGradient>
+    <clipPath id="clippath-18">
+      <path class="cls-27" d="M410.31,378.4c.4-.58.8-1.41,1.02-1.84l50.36-134.47-72.26-.24,20.88,136.55ZM329.26,172.2c8.41,7.91,46.75,43.81,55.92,47.13,9.6-5.56,18.45-14.48,27.06-22.61l13.72-12.06c4.69-4.07,9.21-8.23,13.44-12.54-4.68-5.05-47.57-32.65-54.46-32.86-7.42-.22-49.76,27-55.69,32.94ZM378.48,468.22l3.91,12.75c2.33,4.79,1.67,3.2,2.79,4.58l5.2-25.05c1.86-14.93,6.17-29.38,9.29-44.89,5.16-25.63-11.07-107.52-14.86-137.84-6.26,13.23-12.95,73.26-16.03,93.87-5.84,39.06,1.3,60.06,9.69,96.58ZM339.5,366.26c-5.99-20.89-38.07-109.95-46.98-123.91l-55.72-.37c4.34,9.64,64.92,80.18,75.17,93.64,7.09,9.31,19.1,25.39,27.54,30.63ZM520.3,255.81c5.47-6.42,6.93-6.28,10.62-14.2l-58.21,1.61c-6.9,20.7-15.18,42.15-23.39,62.91-5.84,14.75-21.51,51.7-22.28,63.39,28.88-37.6,62.57-77.69,93.27-113.71ZM296.81,367.83c16.63,25.25,8.8,17.19,33.84,52.06,6.07,8.45,34.91,42.52,35.52,50.81,6.05-5.93-.6-22-2.69-29.73-2.4-8.88-4.24-20.61-6.89-29.19-3.67-11.89-88.47-115.84-97.32-119.82,7.57,22.57,26.5,49.31,37.54,75.87ZM399.47,469.9c7.9-11.88,19.75-26.92,28.54-38.64,9.38-12.5,22.64-28.01,30.25-41.68,15.11-27.14,31.43-65.23,48.3-91.27-2.18-3.05,3.15-11.82-8.55,1.48-3.33,3.78-5.59,7.55-8,10.74-15.82,20.87-73.72,85.47-79.18,101.3-3.61,10.47-13.42,48.81-11.36,58.06ZM484.16,364.06c24.81-21.6,59.35-63.22,86.03-89.21l22.74-23.47c8.28-9.39,2.96.1,6.54-9.82l-52.11.33c-4.89,6.68-62.04,116-63.2,122.17ZM234.92,314.77c5.8,6.08,48.59,58.73,44.55,40.25l-58.61-113.3-49.04.77c21.11,28.14,37.99,45.93,63.09,72.28ZM539.1,217.55c1.6-11.67-.59-32.45-1.17-45.52-2.44-55.11-50.63-19.27-73.48-2.67,10.11,9.97,57.42,39.46,74.66,48.19ZM404.62,223.29l58.18-.17c-1.44-11.78-8-29.7-13.25-39.06-10.42,1.55-41.44,29.46-44.93,39.23ZM550.41,221.27l22.63,2.06c8.76-.07,17.44-.07,26.19.03-1.75-5.77-.65-2.65-3.77-6.66-2.03-2.62-4.78-4.89-6.42-6.45l-40.2-38.39,1.56,49.41ZM305.23,222.82l60.7.16c-1.86-5.08-39.96-37.55-45.09-41.53l-15.6,41.37ZM250.23,223.22l43.89-.29,11.83-36.47c-7.79,2.56-52.04,27.49-55.72,36.76ZM463.64,186.24l11.53,37.12c68.84-1.34,40.63-16.32-11.53-37.12ZM318.26,161.75l8.16-4.55c3.37-1.84,5.96-3.3,9.74-5.76l18.89-13.58-73.37-.52,36.59,24.41ZM487.04,137.41l-70.62,3.24,33.64,20.34c6.18.63,13.75-6.28,17.99-9.06,3.79-2.49,7.17-3.98,9.63-5.55l9.37-8.96ZM229.69,217.55c-1.59-11.67.6-32.45,1.17-45.52,2.44-55.11,50.63-19.27,73.48-2.67-10.11,9.97-57.42,39.46-74.66,48.19ZM218.38,221.27l-22.63,2.06c-8.76-.07-17.43-.07-26.19.03,1.75-5.77.65-2.65,3.76-6.66,2.04-2.62,4.78-4.89,6.42-6.45l40.2-38.39-1.56,49.41ZM377.11,242.05l-71.6-.33c2.24,13.84,18.71,52.71,24.71,67.97,3.74,9.52,18.41,58.54,26.66,64.2.37-.65.66-1.54.83-2.09.18-.55.58-1.44.78-2.12.2-.69.46-1.42.66-2.2l17.97-125.43Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_19" data-name="Gradiente sem nome 19" x1="57.01" y1="281.38" x2="642.25" y2="316.96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dbb1b3"/>
+      <stop offset=".19" stop-color="#9e979e"/>
+      <stop offset=".53" stop-color="#dbb1b3"/>
+      <stop offset=".93" stop-color="#9e979e"/>
+      <stop offset="1" stop-color="#dbb1b3"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-38">
+    <rect class="cls-15" x="285.68" y="3.04" width="197.03" height="118.51"/>
+  </g>
+  <g class="cls-18">
+    <rect class="cls-11" x="353.58" y="489.08" width="59.27" height="134.18"/>
+  </g>
+  <g class="cls-33">
+    <rect class="cls-34" x="120.28" y="187.2" width="163.84" height="204.13"/>
+  </g>
+  <g class="cls-23">
+    <rect class="cls-28" x="599.33" y="186.53" width="47.07" height="31.76"/>
+  </g>
+  <g class="cls-8">
+    <rect class="cls-4" x="160.49" y="276.59" width="202.05" height="319.74"/>
+  </g>
+  <g class="cls-21">
+    <rect class="cls-30" x="407.58" y="274.06" width="196.96" height="320.84"/>
+  </g>
+  <g class="cls-1">
+    <rect class="cls-26" x="562.77" y="186.42" width="209.36" height="219.14"/>
+  </g>
+  <g class="cls-2">
+    <rect class="cls-36" x="4.05" y="186.72" width="199.78" height="235.72"/>
+  </g>
+  <g class="cls-22">
+    <rect class="cls-6" x="527.48" y="-36.51" width="136.4" height="180.01"/>
+  </g>
+  <g class="cls-9">
+    <rect class="cls-31" x="453.24" y="83.57" width="62.81" height="37.48"/>
+  </g>
+  <g class="cls-10">
+    <rect class="cls-12" x="678.48" y="61.75" width="90.12" height="92.13"/>
+  </g>
+  <g class="cls-14">
+    <rect class="cls-19" x="255.34" y="78.92" width="56.57" height="42.11"/>
+  </g>
+  <g class="cls-24">
+    <rect class="cls-17" x="144.3" y="87.88" width="99.68" height="65.75"/>
+  </g>
+  <g class="cls-35">
+    <rect class="cls-39" x="526.05" y="87.47" width="138.88" height="65.89"/>
+  </g>
+  <g class="cls-25">
+    <rect class="cls-20" x="200.56" width="131.25" height="43.66"/>
+  </g>
+  <g class="cls-5">
+    <rect class="cls-29" x="441.58" y=".13" width="126.33" height="43.3"/>
+  </g>
+  <g class="cls-32">
+    <rect class="cls-13" x="104.71" y="-36.51" width="136.4" height="180.01"/>
+  </g>
+  <g class="cls-3">
+    <rect class="cls-37" y="61.75" width="90.11" height="92.13"/>
+  </g>
+  <g class="cls-7">
+    <rect class="cls-16" x="169.56" y="116.93" width="431.64" height="368.83"/>
+  </g>
+</svg>

@@ -28,6 +28,7 @@ export default {
         }
       },
       screens: {
+        'mobile-0' : '534px' ,
         'mobile': '640px',
         'tablet': '768px',
         'laptop': '1024px',

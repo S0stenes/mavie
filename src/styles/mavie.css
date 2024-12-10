@@ -79,17 +79,38 @@
 }
 
 .section-01{
-    background-image:url(/bg/bg-pc-1.png);
+    background-image: url(/bg/bg-mobile-1.png);
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position: right;
+    background-size: cover;
+    background-position: center;
+    background-position-y: top;
 }
 
-.section-02{
-    background-image:url(/bg/bg-pc-2.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: right;
+@media screen and (min-width: 534px) {
+    .section-01{
+        background-image:url(/bg/bg-pc-1.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right;
+        background-position-y: top;
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+    .section-01{
+        background-image:url(/bg/bg-pc-1.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right;
+    }
+    .section-02{
+        background-image:url(/bg/bg-pc-2.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right;
+        background-position-y: bottom;
+    }
 }
 
 .section-03 {

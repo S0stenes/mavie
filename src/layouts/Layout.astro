@@ -12,12 +12,27 @@ import '../styles/mavie.css';
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="description" content="Astro description" />
+		<meta name="description" content="Descubra a coleção exclusiva de acessórios e bolsas da Mavie Acessórios. Oferecemos produtos modernos, sofisticados e de alta qualidade para complementar seu estilo. Encontre a bolsa perfeita e acessórios que vão transformar seu visual, com as últimas tendências e design impecável. Entregamos para todo o Brasil!" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/iconmark.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<link rel="stylesheet" href="input.css">
 		<title>{title}</title>
+
+		 <!-- Open Graph Meta Tags -->
+		 <meta property="og:title" content="Bolsas e Acessórios - Mavie Acessórios" />
+		 <meta property="og:description" content="Descubra a coleção exclusiva de acessórios e bolsas da Mavie Acessórios. Oferecemos produtos modernos, sofisticados e de alta qualidade para complementar seu estilo. Encontre a bolsa perfeita e acessórios que vão transformar seu visual, com as últimas tendências e design impecável. Entregamos para todo o Brasil!" />
+		 <meta property="og:image" content="/public/og.png" />
+		 <meta property="og:url" content="https://www.maviecolatina.com.br" />
+		 <meta property="og:type" content="website" />
+		 <meta property="og:locale" content="pt_BR" />
+	 
+		 <!-- Se quiser adicionar Twitter Cards (para Twitter) -->
+		 <meta name="twitter:card" content="summary_large_image" />
+		 <meta name="twitter:title" content="Bolsas e Acessórios - Mavie Acessórios" />
+		 <meta name="twitter:description" content="Descubra a coleção exclusiva de acessórios e bolsas da Mavie Acessórios. Oferecemos produtos modernos, sofisticados e de alta qualidade para complementar seu estilo. Encontre a bolsa perfeita e acessórios que vão transformar seu visual, com as últimas tendências e design impecável. Entregamos para todo o Brasil!" />
+		 <meta name="twitter:image" content="/public/og.png" />
+		 <meta name="twitter:url" content="https://www.maviecolatina.com.br" />
 	</head>
 	<body>
 		<slot />

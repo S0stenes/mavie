@@ -33,7 +33,8 @@ export default {
         'tablet': '768px',
         'laptop': '1024px',
         'desktop': '1280px',
-        'wide': '1536px'
+        'wide': '1536px',
+        'ultra': '2000px'
       },
     },
   },

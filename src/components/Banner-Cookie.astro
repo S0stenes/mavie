@@ -1,5 +1,5 @@
 <!-- Banner de Cookies -->
-<div id="cookieBanner" class="cookie-banner fixed bottom-0 z-20 flex justify-center items-center w-full py-3 gap-5 bg-white">
+<div id="cookieBanner" class="cookie-banner fixed bottom-0 z-20 justify-center items-center w-full py-3 gap-5 bg-white hidden">
     <p class="text-base">🍪 Nós usamos cookies para melhorar sua experiência. Ao clicar em "Aceitar", você concorda com o uso de cookies.</p>
     <button id="aceitarCookies" class="btn-accept">Aceitar</button>    
 </div>
@@ -9,14 +9,16 @@
     function checkCookie() {
         const cookiesAceitos = document.cookie.includes("cookiesAceitos=true");
         if (!cookiesAceitos) {
-            document.getElementById('cookieBanner').style.display = 'block';
+            document.getElementById("cookieBanner").classList.add("flex");
+            document.getElementById("cookieBanner").classList.remove("hidden");
         }
     }
 
     // Aceitar cookies
     document.getElementById('aceitarCookies').addEventListener('click', function() {
         document.cookie = "cookiesAceitos=true; max-age=2592000; path=/"; // Expira em 30 dias
-        document.getElementById('cookieBanner').style.display = 'none';
+        document.getElementById("cookieBanner").classList.add("hidden");
+        document.getElementById("cookieBanner").classList.remove("flex");
     });
 
     // Verificar cookies ao carregar a página

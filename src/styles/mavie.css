@@ -66,6 +66,14 @@
         @apply text-center bg-primary-500 font-extrabold uppercase tracking-wider no-underline px-5 py-4 rounded-2xl items-center border-none hover:no-underline hover:bg-primary-400 leading-5 text-white text-xl inline-block;
     }
 
+    .btn-accept {
+        @apply text-center bg-green-900 uppercase tracking-wider no-underline px-3 py-2 rounded-xl items-center border-none hover:no-underline hover:bg-green-800 leading-5 text-white text-base;
+    }
+
+    .btn-deny {
+        @apply text-center bg-red-900 uppercase tracking-wider no-underline px-3 py-2 rounded-xl items-center border-none hover:no-underline hover:bg-red-800 leading-5 text-white text-base;
+    }
+
     .btn-pulse:hover {
         animation: pulse 1s infinite;
         transition: .3s;

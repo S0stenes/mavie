@@ -1,0 +1,32 @@
+---
+import Layout from '../layouts/Layout.astro';
+import 'aos/dist/aos.css';
+import Footer from '../components/Footer.astro';
+import BannerCookie from '../components/Banner-Cookie.astro';
+---
+
+<Layout title="Política de Privacidade">
+
+	<BannerCookie />
+
+	<main data-aos="fade-down" data-aos-duration="1000" class="flex flex-col justify-center text-center gap-7 my-10 mx-10">
+		<h1>Política de Privacidade</h1>
+		<p><strong>Última atualização:</strong> <span id="ano"></span></p>
+
+		<h2>1. Introdução</h2>
+		<p>Nós respeitamos sua privacidade e estamos comprometidos em proteger seus dados pessoais.</p>
+
+		<h2>2. Uso de Cookies</h2>
+		<p>Utilizamos cookies para melhorar sua experiência em nosso site. Ao continuar navegando, você concorda com o uso de cookies.</p>
+
+		<h2>3. Dados Coletados</h2>
+		<p>Podemos coletar informações como nome, e-mail e comportamento de navegação para fins de análise.</p>		
+	</main>
+
+	<Footer />
+
+	<script>
+		import AOS from "aos";
+		AOS.init();
+	</script>
+</Layout>

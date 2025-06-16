@@ -33,6 +33,29 @@ import '../styles/mavie.css';
 		 <meta name="twitter:description" content="Encontre bolsas e acessórios exclusivos, elegantes e de alta qualidade. Perfeitos para complementar seu estilo e transformar seu visual no dia a dia!" />
 		 <meta name="twitter:image" content="https://raw.githubusercontent.com/S0stenes/mavie/refs/heads/main/public/og.png" />
 		 <meta name="twitter:url" content="https://www.maviecolatina.com.br" />
+
+		 		<script>
+			// Mostrar o ano atual
+			const ano = new Date().getFullYear();
+			document.getElementById('ano').textContent = `${ano}`;
+
+			// Verificar se o usuário já aceitou os cookies
+			function checkCookie() {
+				const cookiesAceitos = document.cookie.includes("cookiesAceitos=true");
+				if (!cookiesAceitos) {
+					document.getElementById('cookieBanner').style.display = 'block';
+				}
+			}
+
+			// Aceitar cookies
+			document.getElementById('aceitarCookies').addEventListener('click', function() {
+				document.cookie = "cookiesAceitos=true; max-age=2592000; path=/"; // Expira em 30 dias
+				document.getElementById('cookieBanner').style.display = 'none';
+			});
+
+			// Verificar cookies ao carregar a página
+			window.onload = checkCookie;
+		</script>
 	</head>
 	<body>
 		<slot />

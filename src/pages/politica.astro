@@ -28,5 +28,9 @@ import BannerCookie from '../components/Banner-Cookie.astro';
 	<script>
 		import AOS from "aos";
 		AOS.init();
+
+		// Mostrar o ano atual
+    	const ano = new Date().getFullYear();
+    	document.getElementById('ano').textContent = `${ano}`;
 	</script>
 </Layout>

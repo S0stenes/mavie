@@ -3,3 +3,22 @@
     <p class="text-base">🍪 Nós usamos cookies para melhorar sua experiência. Ao clicar em "Aceitar", você concorda com o uso de cookies.</p>
     <button id="aceitarCookies" class="btn-accept">Aceitar</button>    
 </div>
+
+<script>
+    // Verificar se o usuário já aceitou os cookies
+    function checkCookie() {
+        const cookiesAceitos = document.cookie.includes("cookiesAceitos=true");
+        if (!cookiesAceitos) {
+            document.getElementById('cookieBanner').style.display = 'block';
+        }
+    }
+
+    // Aceitar cookies
+    document.getElementById('aceitarCookies').addEventListener('click', function() {
+        document.cookie = "cookiesAceitos=true; max-age=2592000; path=/"; // Expira em 30 dias
+        document.getElementById('cookieBanner').style.display = 'none';
+    });
+
+    // Verificar cookies ao carregar a página
+    window.onload = checkCookie;
+</script>

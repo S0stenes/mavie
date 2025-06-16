@@ -1,5 +1,10 @@
 <section class="bg-primary-400 py-10">
     <div class="container flex flex-col items-center justify-center text-center text-white">
-        <p class="uppercase">Todos os direitos reservados 2024</p>
+        <p id="direitosAutorais"></p>
     </div>
 </section>
+
+<script>
+    const ano = new Date().getFullYear();
+    document.getElementById('direitosAutorais').textContent = `© Todos os direitos reservados ${ano}`;
+</script>
